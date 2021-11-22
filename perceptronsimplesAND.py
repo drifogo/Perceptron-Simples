@@ -20,7 +20,7 @@ x = [[-1,   0,   0],
 w = [1,1,1]
 
 # taxa de aprendizado
-eta = 0.5
+eta = 0.6
 
 # saídas desejadas
 y = [0,
